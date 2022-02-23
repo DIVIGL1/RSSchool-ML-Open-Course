@@ -9,6 +9,7 @@ __pycache__/*.*
 *.spec
 *.pkl
 1_data_manipulations/*.*
+*.csv
 
 
 # C++ objects and libs
