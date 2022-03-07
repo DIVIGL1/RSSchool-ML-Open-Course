@@ -10,7 +10,9 @@ __pycache__/*.*
 *.pkl
 1_data_manipulations/*.*
 *.csv
-
+*.sqlite
+*/.ipynb_checkpoints/*
+*.xls*
 
 # C++ objects and libs
 *.slo
