@@ -13,6 +13,7 @@ __pycache__/*.*
 *.sqlite
 */.ipynb_checkpoints/*
 *.xls*
+README.md
 
 # C++ objects and libs
 *.slo
@@ -25,6 +26,7 @@ __pycache__/*.*
 *.so.*
 *.dll
 *.dylib
+
 
 # Qt-es
 object_script.*.Release
