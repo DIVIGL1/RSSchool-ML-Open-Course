@@ -13,7 +13,6 @@ __pycache__/*.*
 *.sqlite
 */.ipynb_checkpoints/*
 *.xls*
-README.md
 
 # C++ objects and libs
 *.slo
